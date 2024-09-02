@@ -1,0 +1,3 @@
+Python 3.x
+Streamlit library
+Install it via: pip install streamlit
